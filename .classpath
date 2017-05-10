@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/warfiles/J2EE-JARS/ejb/ejb3-persistence-3.3.2.Beta1.jar"/>
+	<classpathentry kind="lib" path="D:/warfiles/J2EE-JARS/springjars/spring-context-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/warfiles/J2EE-JARS/springjars/spring-beans-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/warfiles/J2EE-JARS/hybernate/hibernate-annotations-3.5.6-Final.jar"/>
+	<classpathentry kind="lib" path="D:/warfiles/J2EE-JARS/hybernate/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/warfiles/J2EE-JARS/springjars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/warfiles/J2EE-JARS/springjars/spring-asm-3.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/warfiles/J2EE-JARS/hybernate/hibernate-3.2.2.ga/hibernate-3.2/hibernate3.jar"/>
+	<classpathentry kind="src" path="/SharekiWorldJPA"/>
+	<classpathentry kind="lib" path="C:/Users/CRT/workspace/SharekiWorldJPA/SharekiModelJPA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CRT/workspace/SharekiWorldJPAHiber/SharekiModelDAOHyber.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
